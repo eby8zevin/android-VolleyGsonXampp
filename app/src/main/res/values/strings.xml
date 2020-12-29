@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VolleyGsonXampp</string>
+    <string name="nim">NIM</string>
+    <string name="name">Name</string>
+    <string name="classs">Class</string>
+    <string name="classss">7-A or 7-B</string>
+    <string name="connect_server">Device is connected to the Server</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
